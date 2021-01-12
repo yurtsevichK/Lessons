@@ -1,0 +1,16 @@
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/Homework2
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/Homework2.deps.json
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/Homework2.runtimeconfig.json
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/Homework2.runtimeconfig.dev.json
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/Homework2.dll
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/ref/Homework2.dll
+/home/married/RiderProjects/Lessons/Homework2/bin/Debug/net5.0/Homework2.pdb
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.csprojAssemblyReference.cache
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.AssemblyInfoInputs.cache
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.AssemblyInfo.cs
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.csproj.CoreCompileInputs.cache
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.dll
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/ref/Homework2.dll
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.pdb
+/home/married/RiderProjects/Lessons/Homework2/obj/Debug/net5.0/Homework2.genruntimeconfig.cache
