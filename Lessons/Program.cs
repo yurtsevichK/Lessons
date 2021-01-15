@@ -7,15 +7,16 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            int a = 5;
+            int a = int.Parse(Console.ReadLine());
 
-            if (a == 5)
+            switch (a)
             {
-                Console.WriteLine("a=5");
-            }
-            else
-            {
-                Console.WriteLine("a!=5");
+                case 1:
+                    Console.WriteLine("You enter number 1");
+                    break;
+                case 2:
+                    Console.WriteLine("You enter number 2");
+                    break;
             }
         }
     }
