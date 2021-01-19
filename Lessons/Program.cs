@@ -7,16 +7,12 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            int a = int.Parse(Console.ReadLine());
-
-            switch (a)
+            int limit = int.Parse(Console.ReadLine());
+            int count = 0;
+            while (count < limit)
             {
-                case 1:
-                    Console.WriteLine("You enter number 1");
-                    break;
-                case 2:
-                    Console.WriteLine("You enter number 2");
-                    break;
+                count++;
+                Console.WriteLine(count);
             }
         }
     }

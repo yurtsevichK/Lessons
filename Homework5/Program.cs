@@ -39,7 +39,7 @@ namespace Homework5
                         Console.WriteLine("Произведение двух чисел = " + (value_1 * value_2));
                         break;
                     case ConsoleKey.Divide:
-                        Console.WriteLine("Остаток от деления двух чисел = " + (value_1 / value_2));
+                        Console.WriteLine("Результат от деления двух чисел = " + (value_1 / value_2));
                         break;
                     case ConsoleKey.Subtract:
                         Console.WriteLine("Остаток от вычитания двух чисел = " + (value_1 - value_2));

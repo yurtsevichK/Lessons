@@ -32,11 +32,11 @@ namespace Homework6
                     Console.WriteLine(0);
                 else
 
-                    Console.WriteLine("Остаток от деления двух чисел = " + (value_1 / value_2));
+                    Console.WriteLine("Результат от деления двух чисел = " + (value_1 / value_2));
             }
             else if (action == "-")
             {
-                Console.WriteLine("Остаток от вычитания двух чисел = " + (value_1 - value_2));
+                Console.WriteLine("Результат от вычитания двух чисел = " + (value_1 - value_2));
             }
             else
             {
