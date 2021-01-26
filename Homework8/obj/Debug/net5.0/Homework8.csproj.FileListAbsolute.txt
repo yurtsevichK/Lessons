@@ -1,0 +1,16 @@
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/Homework8
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/Homework8.deps.json
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/Homework8.runtimeconfig.json
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/Homework8.runtimeconfig.dev.json
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/Homework8.dll
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/ref/Homework8.dll
+/home/married/RiderProjects/Lessons/Homework8/bin/Debug/net5.0/Homework8.pdb
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.csprojAssemblyReference.cache
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.GeneratedMSBuildEditorConfig.editorconfig
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.AssemblyInfoInputs.cache
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.AssemblyInfo.cs
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.csproj.CoreCompileInputs.cache
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.dll
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/ref/Homework8.dll
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.pdb
+/home/married/RiderProjects/Lessons/Homework8/obj/Debug/net5.0/Homework8.genruntimeconfig.cache
